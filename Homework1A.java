@@ -1,3 +1,4 @@
+//CS572, Homework1A, Ariel Smith
 // PROGRAM TO CALCULATE HOW MANY CARTONS ARE NEEDED
 // FOR X NUMBER OF EGGS
 import java.util.*;

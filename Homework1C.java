@@ -1,3 +1,4 @@
+//CS572, Homework1C, Ariel Smith
 // PROGRAM TO CALCULATE THE SQUARE AND THE
 // "MIDDLE" OF AN INT, X
 import java.util.*;

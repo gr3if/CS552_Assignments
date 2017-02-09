@@ -1,3 +1,4 @@
+//CS572, Homework1B, Ariel Smith
 // PROGRAM TO CALCULATE THE VOLUME OF A CIRCLE
 import java.util.*;
 public class Homework1B {
